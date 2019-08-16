@@ -15,17 +15,21 @@ body {
     article {
         align-items: center;
         display: block;
-        margin-block-start: 2cm
+        margin-block-start: 0.5cm
     }
     h1 {
         text-align: center;
-        color: white
+        color: white;
+        font-size: 22px
     }
     ;
     h2,
-    h3,
-    h4,
     p {
-        color: white
+        color: white;
+        font-size: 18px
+    };
+    h3 {
+        color: white;
+        font-size: 12px
     }
 }
